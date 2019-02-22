@@ -1,0 +1,8 @@
+print("Hello Python, nice to meet you.")
+print(1+1)
+print(10/2)
+print(100 * 6.2 - 70/3.5)
+print(1 == 1)
+print(1 == 2)
+print(1 < 2)
+print(5 * 20 >= 100/13)
